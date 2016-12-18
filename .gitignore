@@ -1,0 +1,6 @@
+.DS_Store
+fastText
+wikitext
+word-rnn-tensorflow/
+MovieSummaries/
+data
